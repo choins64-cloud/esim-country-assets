@@ -44,11 +44,12 @@
       setText('#completed-total', completed + ' / ' + TOTAL_COUNTRIES);
       setText('#completion-rate', (completed / TOTAL_COUNTRIES * 100).toFixed(1) + '%');
       setText('#remaining', Math.max(0, TOTAL_COUNTRIES - completed));
-      document.querySelector('#gallery').innerHTML = entries.map(([code, item]) =>
-        '<article><img src="./images/' + code.toLowerCase() + '.jpg" loading="lazy" alt="' + (item.countryName || code) + '">' +
+      document.querySelector('#gallery').innerHTML = entries.map(([code, item]) => {
+        const imageVersion = encodeURIComponent(item.collectedAt || manifest.generatedAt || item.bytes || '1');
+        return '<article><img src="./images/' + code.toLowerCase() + '.jpg?v=' + imageVersion + '" loading="lazy" alt="' + (item.countryName || code) + '">' +
         '<div class="info"><div class="name">' + code + ' · ' + (item.countryName || code) + '</div>' +
         '<div class="source">Photo by ' + (item.photographer || 'Unknown') + ' on Unsplash</div></div></article>'
-      ).join('');
+      }).join('');
       const updatedAt = manifest.generatedAt ? new Date(manifest.generatedAt).toLocaleString('ko-KR') : '정보 없음';
       setText('#status', '공개 저장소 기준 · 업데이트 ' + updatedAt);
     }
