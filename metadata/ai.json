@@ -1,0 +1,29 @@
+{
+  "countryCode": "AI",
+  "countryName": "앵귈라",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-ai\\pure-images\\ai.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1651697224183-1b25332e6967?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-ai\\collectors\\ai.jpg",
+  "attributionText": "Photo from Unsplash",
+  "photographer": null,
+  "photographerUrl": null,
+  "unsplashUrl": "https://images.unsplash.com/photo-1651697224183-1b25332e6967?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}
