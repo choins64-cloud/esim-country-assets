@@ -1,0 +1,29 @@
+{
+  "countryCode": "TL",
+  "countryName": "동티모르",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-tl\\pure-images\\tl.jpg",
+  "sourceUrl": "https://unsplash.com/photos/kYjDNNRmR7c?utm_source=esim_image_collector&utm_medium=referral",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-tl\\collectors\\tl.jpg",
+  "attributionText": "Photo by Tanushree Rao on Unsplash",
+  "photographer": "Tanushree Rao",
+  "photographerUrl": "https://unsplash.com/@tanushreerao?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/kYjDNNRmR7c?utm_source=esim_image_collector&utm_medium=referral",
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

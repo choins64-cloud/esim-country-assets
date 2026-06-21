@@ -1,0 +1,29 @@
+{
+  "countryCode": "VA",
+  "countryName": "바티칸 시국",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-va\\pure-images\\va.jpg",
+  "sourceUrl": "https://unsplash.com/photos/0Bs3et8FYyg?utm_source=esim_image_collector&utm_medium=referral",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-va\\collectors\\va.jpg",
+  "attributionText": "Photo by Caleb Miller on Unsplash",
+  "photographer": "Caleb Miller",
+  "photographerUrl": "https://unsplash.com/@milljestic?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/0Bs3et8FYyg?utm_source=esim_image_collector&utm_medium=referral",
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 168,
+    "height": 168
+  }
+}

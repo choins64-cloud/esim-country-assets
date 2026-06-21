@@ -1,0 +1,29 @@
+{
+  "countryCode": "UA",
+  "countryName": "우크라이나",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-ua\\pure-images\\ua.jpg",
+  "sourceUrl": "https://unsplash.com/photos/sbPI02mZqxs?utm_source=esim_image_collector&utm_medium=referral",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-ua\\collectors\\ua.jpg",
+  "attributionText": "Photo by Glib Albovsky on Unsplash",
+  "photographer": "Glib Albovsky",
+  "photographerUrl": "https://unsplash.com/@albovsky?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/sbPI02mZqxs?utm_source=esim_image_collector&utm_medium=referral",
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 252,
+    "height": 168
+  }
+}

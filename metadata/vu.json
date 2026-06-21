@@ -1,0 +1,29 @@
+{
+  "countryCode": "VU",
+  "countryName": "바누아투",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-vu\\pure-images\\vu.jpg",
+  "sourceUrl": "https://unsplash.com/photos/PknaOrb1lVo?utm_source=esim_image_collector&utm_medium=referral",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-vu\\collectors\\vu.jpg",
+  "attributionText": "Photo by Andreea Popa on Unsplash",
+  "photographer": "Andreea Popa",
+  "photographerUrl": "https://unsplash.com/@elfcodobelf?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/PknaOrb1lVo?utm_source=esim_image_collector&utm_medium=referral",
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 280,
+    "height": 168
+  }
+}

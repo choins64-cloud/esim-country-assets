@@ -1,0 +1,29 @@
+{
+  "countryCode": "UZ",
+  "countryName": "우즈베키스탄",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-uz\\pure-images\\uz.jpg",
+  "sourceUrl": "https://unsplash.com/photos/e2uaQCdKOFw?utm_source=esim_image_collector&utm_medium=referral",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-uz\\collectors\\uz.jpg",
+  "attributionText": "Photo by Evgeny Matveev on Unsplash",
+  "photographer": "Evgeny Matveev",
+  "photographerUrl": "https://unsplash.com/@eugene_rus?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/e2uaQCdKOFw?utm_source=esim_image_collector&utm_medium=referral",
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}
