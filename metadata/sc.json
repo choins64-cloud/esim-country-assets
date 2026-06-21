@@ -1,0 +1,29 @@
+{
+  "countryCode": "SC",
+  "countryName": "세이셸",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-sc\\pure-images\\sc.jpg",
+  "sourceUrl": "https://unsplash.com/photos/9pdP7VXn1cY?utm_source=esim_image_collector&utm_medium=referral",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-sc\\collectors\\sc.jpg",
+  "attributionText": "Photo by KaynShay Lifestyle on Unsplash",
+  "photographer": "KaynShay Lifestyle",
+  "photographerUrl": "https://unsplash.com/@1kaynshay?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/9pdP7VXn1cY?utm_source=esim_image_collector&utm_medium=referral",
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}
