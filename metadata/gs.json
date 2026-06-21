@@ -1,0 +1,29 @@
+{
+  "countryCode": "GS",
+  "countryName": "사우스조지아 사우스샌드위치 제도",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-gs\\pure-images\\gs.jpg",
+  "sourceUrl": "https://unsplash.com/photos/wVoZjM8ZYPs?utm_source=esim_image_collector&utm_medium=referral",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-gs\\collectors\\gs.jpg",
+  "attributionText": "Photo by Tim Oun on Unsplash",
+  "photographer": "Tim Oun",
+  "photographerUrl": "https://unsplash.com/@timoun?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/wVoZjM8ZYPs?utm_source=esim_image_collector&utm_medium=referral",
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

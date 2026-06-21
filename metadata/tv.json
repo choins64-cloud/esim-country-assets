@@ -1,0 +1,29 @@
+{
+  "countryCode": "TV",
+  "countryName": "투발루",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-tv\\pure-images\\tv.jpg",
+  "sourceUrl": "https://unsplash.com/photos/vi1fIqmbHP0?utm_source=esim_image_collector&utm_medium=referral",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-tv\\collectors\\tv.jpg",
+  "attributionText": "Photo by Aladdin Hammami on Unsplash",
+  "photographer": "Aladdin Hammami",
+  "photographerUrl": "https://unsplash.com/@soriaty?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/vi1fIqmbHP0?utm_source=esim_image_collector&utm_medium=referral",
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

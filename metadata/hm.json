@@ -1,0 +1,29 @@
+{
+  "countryCode": "HM",
+  "countryName": "허드 맥도널드 제도",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-hm\\pure-images\\hm.jpg",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:ISS018-E-038182_lrg.jpg",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-hm\\collectors\\hm.jpg",
+  "attributionText": "Wikimedia Commons contributors / Wikimedia Commons / See source page",
+  "photographer": "Wikimedia Commons contributors",
+  "photographerUrl": "https://commons.wikimedia.org/wiki/File:ISS018-E-038182_lrg.jpg",
+  "unsplashUrl": "https://commons.wikimedia.org/wiki/File:ISS018-E-038182_lrg.jpg",
+  "source": "wikimedia",
+  "sourceName": "Wikimedia Commons",
+  "licenseName": "See source page",
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

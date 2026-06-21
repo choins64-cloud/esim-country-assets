@@ -1,0 +1,29 @@
+{
+  "countryCode": "UM",
+  "countryName": "미국령 군소 제도",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-um\\pure-images\\um.jpg",
+  "sourceUrl": "https://i.namu.wiki/i/vfitq0TgzR3MEJWQfygV9ITlD0fArumAlSQF1Tx392pnq8JhfTjgiyd0S6bumo0FSkNIp-H7CkEJX1wjLdQeGfYGHVyMKccjb4b4de16N4jO7IIQMxDNIte81J2EtFdqGssZI30OS17e7KmG5GtUHA.webp",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-um\\collectors\\um.jpg",
+  "attributionText": "Image source: Namu Wiki",
+  "photographer": null,
+  "photographerUrl": null,
+  "unsplashUrl": "https://i.namu.wiki/i/vfitq0TgzR3MEJWQfygV9ITlD0fArumAlSQF1Tx392pnq8JhfTjgiyd0S6bumo0FSkNIp-H7CkEJX1wjLdQeGfYGHVyMKccjb4b4de16N4jO7IIQMxDNIte81J2EtFdqGssZI30OS17e7KmG5GtUHA.webp",
+  "source": "namuwiki",
+  "sourceName": "Namu Wiki",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 319,
+    "height": 168
+  }
+}

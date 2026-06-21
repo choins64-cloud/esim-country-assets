@@ -1,0 +1,29 @@
+{
+  "countryCode": "PN",
+  "countryName": "핏케언 제도",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-pn\\pure-images\\pn.jpg",
+  "sourceUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGv1DxFeOKYkN7mYJEy-bzn26Wi4CoD5MeHKWNi3oB7ALC2usQ_Jjy-lRo3oNEIaYsCGignpvGLd4iwNgqroXkbFqEnp6LK4qvGwenE_g1CMEEiJl2f7AAScVYjONL8lNTeNnYMDkoHJMo=s680-w680-h510-rw",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-pn\\collectors\\pn.jpg",
+  "attributionText": "Image source: Google",
+  "photographer": null,
+  "photographerUrl": null,
+  "unsplashUrl": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGv1DxFeOKYkN7mYJEy-bzn26Wi4CoD5MeHKWNi3oB7ALC2usQ_Jjy-lRo3oNEIaYsCGignpvGLd4iwNgqroXkbFqEnp6LK4qvGwenE_g1CMEEiJl2f7AAScVYjONL8lNTeNnYMDkoHJMo=s680-w680-h510-rw",
+  "source": "google",
+  "sourceName": "Google",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

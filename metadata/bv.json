@@ -1,0 +1,29 @@
+{
+  "countryCode": "BV",
+  "countryName": "부베섬",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-bv\\pure-images\\bv.jpg",
+  "sourceUrl": "https://i.namu.wiki/i/gxJ_Fb3pD13FOFtLkydp5KRBysb2nEjntqiHbU34pd82N1KkSTLKsiOTfiTVeSMARzrnziIiWYijzJ5XG1FXCgwdlWuCSZpUsCD0VGSDNOtn6CNNwbITiDt5o-zXSAADvCzUwxlGHfLUpdzHs7pBPA.webp",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-bv\\collectors\\bv.jpg",
+  "attributionText": "Image source: Namu Wiki",
+  "photographer": null,
+  "photographerUrl": null,
+  "unsplashUrl": "https://i.namu.wiki/i/gxJ_Fb3pD13FOFtLkydp5KRBysb2nEjntqiHbU34pd82N1KkSTLKsiOTfiTVeSMARzrnziIiWYijzJ5XG1FXCgwdlWuCSZpUsCD0VGSDNOtn6CNNwbITiDt5o-zXSAADvCzUwxlGHfLUpdzHs7pBPA.webp",
+  "source": "namuwiki",
+  "sourceName": "Namu Wiki",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 231,
+    "height": 168
+  }
+}
