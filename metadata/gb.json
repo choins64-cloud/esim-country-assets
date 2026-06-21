@@ -1,0 +1,21 @@
+{
+  "countryCode": "GB",
+  "countryName": "영국",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\gb.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxVbml0ZWQlMjBLaW5nZG9tJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTkxNzIxM3ww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\gb.jpg",
+  "attributionText": "Photo by Marcin Nowak on Unsplash",
+  "photographer": "Marcin Nowak",
+  "photographerUrl": "https://unsplash.com/@marcin?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/big-ben-london-iXqTqC-f6jI?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

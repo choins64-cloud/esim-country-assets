@@ -1,0 +1,21 @@
+{
+  "countryCode": "GA",
+  "countryName": "가봉",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\ga.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1744710964175-a9159aa30a7d?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxHYWJvbiUyMHRyYXZlbCUyMGxhbmRzY2FwZSUyMGxhbmRtYXJrfGVufDF8MHx8fDE3ODE5MTcyMTB8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\ga.jpg",
+  "attributionText": "Photo by JEaLiFe Pictures on Unsplash",
+  "photographer": "JEaLiFe Pictures",
+  "photographerUrl": "https://unsplash.com/@jealife_pictures?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/a-town-sits-beside-a-calm-river-NHhgTBdUsXY?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 224,
+    "height": 168
+  }
+}

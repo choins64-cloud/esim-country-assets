@@ -1,0 +1,21 @@
+{
+  "countryCode": "KG",
+  "countryName": "키르기스스탄",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\kg.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1489421382202-f7ec0cfd96f7?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxLeXJneXpzdGFuJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTkxMzY1OHww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\kg.jpg",
+  "attributionText": "Photo by Oziel Gómez on Unsplash",
+  "photographer": "Oziel Gómez",
+  "photographerUrl": "https://unsplash.com/@ozgomz?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/white-canopy-tent-beside-beside-beige-dome-hut-on-green-grass-field-at-daytime-qLchd-tax_g?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 280,
+    "height": 168
+  }
+}

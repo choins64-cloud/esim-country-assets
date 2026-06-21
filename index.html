@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>eSIM Country Assets</title>
+  <style>
+    body{margin:0;background:#101318;color:#f6f7f9;font-family:Arial,sans-serif}
+    header{padding:24px;position:sticky;top:0;background:#101318ee;backdrop-filter:blur(8px)}
+    h1{margin:0 0 6px;font-size:24px}p{margin:0;color:#aeb7c4}
+    main{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:16px;padding:0 24px 32px}
+    article{overflow:hidden;border:1px solid #29313c;border-radius:12px;background:#181d24}
+    img{display:block;width:100%;aspect-ratio:3/2;object-fit:cover}
+    .info{padding:12px}.name{font-weight:700}.source{margin-top:5px;font-size:12px;color:#aeb7c4}
+  </style>
+</head>
+<body>
+  <header><h1>eSIM Country Assets</h1><p id="status">Loading...</p></header>
+  <main id="gallery"></main>
+  <script>
+    fetch('./manifest.json').then(response => response.json()).then(manifest => {
+      const entries = Object.entries(manifest.countries || {}).sort(([a], [b]) => a.localeCompare(b));
+      document.querySelector('#status').textContent = `${entries.length} country images`;
+      document.querySelector('#gallery').innerHTML = entries.map(([code, item]) => `
+        <article>
+          <img src="./images/${code.toLowerCase()}.jpg" loading="lazy" alt="${item.countryName || code}">
+          <div class="info"><div class="name">${code} · ${item.countryName || code}</div>
+          <div class="source">Photo by ${item.photographer || 'Unknown'} on Unsplash</div></div>
+        </article>`).join('');
+    }).catch(error => document.querySelector('#status').textContent = `Failed: ${error.message}`);
+  </script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "countryCode": "MD",
+  "countryName": "몰도바",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\md.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1599487058320-2fbfcbfc6d75?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxNb2xkb3ZhJTIwdHJhdmVsJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODE5MzM1OTR8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\md.jpg",
+  "attributionText": "Photo by Maria Lupan on Unsplash",
+  "photographer": "Maria Lupan",
+  "photographerUrl": "https://unsplash.com/@luandmario?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/green-trees-and-brown-dirt-road-D2zYf0MWRcQ?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

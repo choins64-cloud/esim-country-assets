@@ -1,0 +1,21 @@
+{
+  "countryCode": "AD",
+  "countryName": "안도라",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\ad.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1612627206499-7af3b85dd50f?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxBbmRvcnJhJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTg5MTMzOHww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\ad.jpg",
+  "attributionText": "Photo by Kévin Pesqué on Unsplash",
+  "photographer": "Kévin Pesqué",
+  "photographerUrl": "https://unsplash.com/@kpesque9?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/aerial-view-of-city-near-mountain-during-daytime-9kpFowYpC5M?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 240,
+    "height": 168
+  }
+}

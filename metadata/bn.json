@@ -1,0 +1,21 @@
+{
+  "countryCode": "BN",
+  "countryName": "브루나이",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\bn.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1705583855040-3c25b4a9eab9?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxCcnVuZWklMjBEYXJ1c3NhbGFtJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTkxMjk4NXww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\bn.jpg",
+  "attributionText": "Photo by Jie Yeu Teoh on Unsplash",
+  "photographer": "Jie Yeu Teoh",
+  "photographerUrl": "https://unsplash.com/@jieyeu?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/a-boat-that-is-sitting-in-the-water-41dRc0wHnsM?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

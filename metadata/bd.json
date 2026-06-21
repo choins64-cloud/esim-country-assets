@@ -1,0 +1,21 @@
+{
+  "countryCode": "BD",
+  "countryName": "방글라데시",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\bd.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1679029524057-7065d479da5c?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxCYW5nbGFkZXNoJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTg5MTM5M3ww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\bd.jpg",
+  "attributionText": "Photo by Sabbir Hossen on Unsplash",
+  "photographer": "Sabbir Hossen",
+  "photographerUrl": "https://unsplash.com/@sh_mihad?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/the-sun-is-setting-over-a-rice-field-aca64kSojkE?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 280,
+    "height": 168
+  }
+}

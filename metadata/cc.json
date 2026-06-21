@@ -1,0 +1,21 @@
+{
+  "countryCode": "CC",
+  "countryName": "코코스 제도",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\cc.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1502085671122-2d218cd434e6?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxDb2NvcyUyMCUyOEtlZWxpbmclMjklMjBJc2xhbmRzJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTg5MjAyMHww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\cc.jpg",
+  "attributionText": "Photo by Michael on Unsplash",
+  "photographer": "Michael",
+  "photographerUrl": "https://unsplash.com/@michael75?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/landscape-photo-of-mountain-island-DXQB5D1njMY?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "countryCode": "PS",
+  "countryName": "팔레스타인 지구",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\ps.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1768306444128-fad358760764?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxQYWxlc3RpbmUlMjB0cmF2ZWwlMjBsYW5kc2NhcGV8ZW58MXwwfHx8MTc4MTg5NTYzOXww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\ps.jpg",
+  "attributionText": "Photo by George 🦅 on Unsplash",
+  "photographer": "George 🦅",
+  "photographerUrl": "https://unsplash.com/@geox3?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/golden-dome-of-the-rock-in-jerusalem-cityscape-2z5roSHlLkY?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

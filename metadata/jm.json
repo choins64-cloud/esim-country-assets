@@ -1,0 +1,21 @@
+{
+  "countryCode": "JM",
+  "countryName": "자메이카",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\jm.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1707571854070-72028840176b?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxKYW1haWNhJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTkxMzY0OHww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\jm.jpg",
+  "attributionText": "Photo by Tom Podmore on Unsplash",
+  "photographer": "Tom Podmore",
+  "photographerUrl": "https://unsplash.com/@tompodmore86?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/a-group-of-boats-floating-on-top-of-a-body-of-water-CDTL4Wtyi8w?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

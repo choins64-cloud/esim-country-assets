@@ -1,0 +1,21 @@
+{
+  "countryCode": "OM",
+  "countryName": "오만",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\om.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1699855803432-17f4ab468b2d?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxPbWFuJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTg5NTYxMXww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\om.jpg",
+  "attributionText": "Photo by Hongbin on Unsplash",
+  "photographer": "Hongbin",
+  "photographerUrl": "https://unsplash.com/@hbsun2013?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/a-large-building-with-a-tower-and-a-clock-on-it-plMrhMCk4bQ?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 294,
+    "height": 168
+  }
+}

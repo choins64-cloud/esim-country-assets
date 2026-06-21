@@ -1,0 +1,21 @@
+{
+  "countryCode": "CX",
+  "countryName": "크리스마스섬",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\cx.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1642073055075-2143ecd72f23?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxDaHJpc3RtYXMlMjBJc2xhbmQlMjB0cmF2ZWwlMjBsYW5kc2NhcGUlMjBsYW5kbWFya3xlbnwxfDB8fHwxNzgxODkyMDU1fDA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\cx.jpg",
+  "attributionText": "Photo by Mark von Werder on Unsplash",
+  "photographer": "Mark von Werder",
+  "photographerUrl": "https://unsplash.com/@mvonwerder?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/a-small-building-with-a-lot-of-decorations-on-it-ZqMS_UsvhSE?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

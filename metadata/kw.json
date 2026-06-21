@@ -1,0 +1,21 @@
+{
+  "countryCode": "KW",
+  "countryName": "쿠웨이트",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\kw.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1650563401244-12028cd7ee4e?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxLdXdhaXQlMjB0cmF2ZWwlMjBsYW5kc2NhcGUlMjBsYW5kbWFya3xlbnwxfDB8fHwxNzgxOTIyNzg4fDA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\kw.jpg",
+  "attributionText": "Photo by sohrab zia on Unsplash",
+  "photographer": "sohrab zia",
+  "photographerUrl": "https://unsplash.com/@sohrabzia?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/a-couple-of-tall-buildings-sitting-next-to-trees-R0KRVqhQwTY?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

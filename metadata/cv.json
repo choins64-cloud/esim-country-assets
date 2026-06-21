@@ -1,0 +1,21 @@
+{
+  "countryCode": "CV",
+  "countryName": "카보베르데",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\cv.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1672856181212-b5b5a0065a08?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxDYWJvJTIwVmVyZGUlMjB0cmF2ZWwlMjBsYW5kc2NhcGUlMjBsYW5kbWFya3xlbnwxfDB8fHwxNzgxODkyMDUxfDA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\cv.jpg",
+  "attributionText": "Photo by Dominique Josse on Unsplash",
+  "photographer": "Dominique Josse",
+  "photographerUrl": "https://unsplash.com/@djosse?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-the-ocean-and-mountains-i010CaxDLEM?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 286,
+    "height": 168
+  }
+}

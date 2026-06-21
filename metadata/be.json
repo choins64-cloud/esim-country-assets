@@ -1,0 +1,21 @@
+{
+  "countryCode": "BE",
+  "countryName": "벨기에",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\be.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1548092304-e0205cb0031b?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxCZWxnaXVtJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTg5MTM5N3ww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\be.jpg",
+  "attributionText": "Photo by Stephanie LeBlanc on Unsplash",
+  "photographer": "Stephanie LeBlanc",
+  "photographerUrl": "https://unsplash.com/@sleblanc01?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/white-concrete-buildings-suTr28QV4wU?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 194,
+    "height": 168
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "countryCode": "LI",
+  "countryName": "리히텐슈타인",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\li.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1760534565549-056edb774703?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxMaWVjaHRlbnN0ZWluJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTkyODE4Nnww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\li.jpg",
+  "attributionText": "Photo by Claudio Biesele on Unsplash",
+  "photographer": "Claudio Biesele",
+  "photographerUrl": "https://unsplash.com/@appenzellmoto?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/rocky-mountain-summit-with-cross-under-clear-blue-sky-XcWbbB9jbrQ?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 280,
+    "height": 168
+  }
+}

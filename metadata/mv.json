@@ -1,0 +1,21 @@
+{
+  "countryCode": "MV",
+  "countryName": "몰디브",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\mv.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1467377791767-c929b5dc9a23?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxNYWxkaXZlcyUyMHRyYXZlbCUyMGxhbmRzY2FwZSUyMGxhbmRtYXJrfGVufDF8MHx8fDE3ODE5NDcxODZ8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\mv.jpg",
+  "attributionText": "Photo by Dion Tavenier on Unsplash",
+  "photographer": "Dion Tavenier",
+  "photographerUrl": "https://unsplash.com/@diotav?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/green-palm-trees-near-body-of-water-h-Qb-9H6Big?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 252,
+    "height": 168
+  }
+}

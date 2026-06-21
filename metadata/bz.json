@@ -1,0 +1,21 @@
+{
+  "countryCode": "BZ",
+  "countryName": "벨리즈",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\bz.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1585531455743-0c272a0b8cd1?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxCZWxpemUlMjB0cmF2ZWwlMjBsYW5kc2NhcGUlMjBsYW5kbWFya3xlbnwxfDB8fHwxNzgxODkyMDE0fDA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\bz.jpg",
+  "attributionText": "Photo by Meritt Thomas on Unsplash",
+  "photographer": "Meritt Thomas",
+  "photographerUrl": "https://unsplash.com/@merittthomas?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/blue-car-parked-in-front-of-brown-concrete-building-m-WhWVdsaEw?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 280,
+    "height": 168
+  }
+}

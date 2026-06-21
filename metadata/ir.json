@@ -1,0 +1,21 @@
+{
+  "countryCode": "IR",
+  "countryName": "이란",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\ir.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1533982023263-64b4091468ab?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxJcmFuJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTkxMzYzOHww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\ir.jpg",
+  "attributionText": "Photo by Alireza Heydarifard on Unsplash",
+  "photographer": "Alireza Heydarifard",
+  "photographerUrl": "https://unsplash.com/@alirezaheydarifard?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/people-near-brown-concrete-structures-zKlFiUcqdZQ?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 294,
+    "height": 168
+  }
+}

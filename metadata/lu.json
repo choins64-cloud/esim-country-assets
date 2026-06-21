@@ -1,0 +1,21 @@
+{
+  "countryCode": "LU",
+  "countryName": "룩셈부르크",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\lu.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1771626882938-861e3f83f279?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxMdXhlbWJvdXJnJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTkzMzU4MHww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\lu.jpg",
+  "attributionText": "Photo by Filipe Nobre on Unsplash",
+  "photographer": "Filipe Nobre",
+  "photographerUrl": "https://unsplash.com/@filipenobre?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/a-tall-tower-stands-against-a-bare-treeline-RbFhTSgDYQw?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 280,
+    "height": 168
+  }
+}

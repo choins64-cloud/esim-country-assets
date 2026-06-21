@@ -1,0 +1,21 @@
+{
+  "countryCode": "JO",
+  "countryName": "요르단",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\jo.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1580204745408-9c18ddb64978?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxKb3JkYW4lMjBjb3VudHJ5JTIwdHJhdmVsJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODE5MTM2NTB8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\jo.jpg",
+  "attributionText": "Photo by Konstantinos Kaskanis on Unsplash",
+  "photographer": "Konstantinos Kaskanis",
+  "photographerUrl": "https://unsplash.com/@k_kaskanis?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/brown-rocky-mountain-under-blue-sky-during-daytime-J_tpg9cloPg?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

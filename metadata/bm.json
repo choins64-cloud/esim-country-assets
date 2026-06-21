@@ -1,0 +1,21 @@
+{
+  "countryCode": "BM",
+  "countryName": "버뮤다",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\bm.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1606139584379-0151d5374485?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxCZXJtdWRhJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTkxMjk4M3ww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\bm.jpg",
+  "attributionText": "Photo by Charlie Hales on Unsplash",
+  "photographer": "Charlie Hales",
+  "photographerUrl": "https://unsplash.com/@capturedbyhales?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/green-leaf-plant-near-sea-during-daytime-2LJwDm3_UBQ?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

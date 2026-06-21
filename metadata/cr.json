@@ -1,0 +1,21 @@
+{
+  "countryCode": "CR",
+  "countryName": "코스타리카",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\cr.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1580259679654-9276b39fd2d5?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxDb3N0YSUyMFJpY2ElMjB0cmF2ZWwlMjBsYW5kc2NhcGUlMjBsYW5kbWFya3xlbnwxfDB8fHwxNzgxODkyMDQ1fDA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\cr.jpg",
+  "attributionText": "Photo by Etienne Delorieux on Unsplash",
+  "photographer": "Etienne Delorieux",
+  "photographerUrl": "https://unsplash.com/@etiennedelorieux?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/green-trees-on-mountain-under-white-clouds-during-daytime-e5sp18O40yA?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 280,
+    "height": 168
+  }
+}

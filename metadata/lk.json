@@ -1,0 +1,21 @@
+{
+  "countryCode": "LK",
+  "countryName": "스리랑카",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\lk.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1775189632564-9a089ed5d0b5?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxTcmklMjBMYW5rYSUyMHRyYXZlbCUyMGxhbmRzY2FwZSUyMGxhbmRtYXJrfGVufDF8MHx8fDE3ODE5MjgxODl8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\lk.jpg",
+  "attributionText": "Photo by Manorie Kodithuwakku on Unsplash",
+  "photographer": "Manorie Kodithuwakku",
+  "photographerUrl": "https://unsplash.com/@manoriekodi?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/a-tall-illuminated-tower-stands-over-a-city-at-night-yZCvXdx0Obw?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

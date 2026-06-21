@@ -1,0 +1,21 @@
+{
+  "countryCode": "NG",
+  "countryName": "나이지리아",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\ng.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1537372023620-37161b1ad8ac?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxOaWdlcmlhJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTk1Mzk4Mnww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\ng.jpg",
+  "attributionText": "Photo by Ovinuchi Ejiohuo on Unsplash",
+  "photographer": "Ovinuchi Ejiohuo",
+  "photographerUrl": "https://unsplash.com/@oviidaniel?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/assorted-houses-q4U9Pyfz-vQ?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

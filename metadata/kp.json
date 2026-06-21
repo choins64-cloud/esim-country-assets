@@ -1,0 +1,21 @@
+{
+  "countryCode": "KP",
+  "countryName": "북한",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\kp.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1710006876254-48250c2dbcfc?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxOb3J0aCUyMEtvcmVhJTIwbGFuZHNjYXBlfGVufDF8MHx8fDE3ODE5MjI3ODJ8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\kp.jpg",
+  "attributionText": "Photo by Christopher Pap de Pestény on Unsplash",
+  "photographer": "Christopher Pap de Pestény",
+  "photographerUrl": "https://unsplash.com/@cpdp?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/a-scenic-view-of-a-valley-with-a-river-running-through-it-_3HIak6sGKs?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

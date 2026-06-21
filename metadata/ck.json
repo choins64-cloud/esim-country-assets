@@ -1,0 +1,21 @@
+{
+  "countryCode": "CK",
+  "countryName": "쿡 제도",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\ck.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1604988162322-d5d678a1d993?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxDb29rJTIwSXNsYW5kcyUyMHRyYXZlbCUyMGxhbmRzY2FwZSUyMGxhbmRtYXJrfGVufDF8MHx8fDE3ODE4OTIwMzR8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\ck.jpg",
+  "attributionText": "Photo by Christoph Burgdorfer on Unsplash",
+  "photographer": "Christoph Burgdorfer",
+  "photographerUrl": "https://unsplash.com/@cburgdorfer?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/people-on-beach-during-daytime-PkgzxrkurRw?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

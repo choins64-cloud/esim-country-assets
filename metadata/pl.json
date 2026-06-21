@@ -1,0 +1,21 @@
+{
+  "countryCode": "PL",
+  "countryName": "폴란드",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\pl.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1581891124368-2649f9b9b72b?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxQb2xhbmQlMjB0cmF2ZWwlMjBsYW5kc2NhcGUlMjBsYW5kbWFya3xlbnwxfDB8fHwxNzgxODk1NjMyfDA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\pl.jpg",
+  "attributionText": "Photo by Julia Boiun on Unsplash",
+  "photographer": "Julia Boiun",
+  "photographerUrl": "https://unsplash.com/@yulia_bo?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/white-boat-on-water-near-buildings-during-daytime-hiwEfi43MMg?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 269,
+    "height": 168
+  }
+}

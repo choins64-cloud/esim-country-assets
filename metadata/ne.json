@@ -1,0 +1,21 @@
+{
+  "countryCode": "NE",
+  "countryName": "니제르",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\ne.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1672573666246-aff9ea7ef67b?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxOaWdlciUyMHRyYXZlbCUyMGxhbmRzY2FwZSUyMGxhbmRtYXJrfGVufDF8MHx8fDE3ODE5NTM5Nzd8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\ne.jpg",
+  "attributionText": "Photo by Azzedine Rouichi on Unsplash",
+  "photographer": "Azzedine Rouichi",
+  "photographerUrl": "https://unsplash.com/@rouichi?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/a-street-sign-on-a-sandy-beach-under-a-blue-sky-gT9j-2CdVII?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 196,
+    "height": 168
+  }
+}

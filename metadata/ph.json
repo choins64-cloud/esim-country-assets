@@ -1,0 +1,21 @@
+{
+  "countryCode": "PH",
+  "countryName": "필리핀",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\ph.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1518509562904-e7ef99cdcc86?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxQaGlsaXBwaW5lcyUyMHRyYXZlbCUyMGxhbmRzY2FwZSUyMGxhbmRtYXJrfGVufDF8MHx8fDE3ODE4OTU2Mjd8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\ph.jpg",
+  "attributionText": "Photo by Cris Tagupa on Unsplash",
+  "photographer": "Cris Tagupa",
+  "photographerUrl": "https://unsplash.com/@cjtagupa?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/aerial-photo-of-body-of-water-between-mountains-9ZXHUr5aCwM?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

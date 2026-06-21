@@ -1,0 +1,21 @@
+{
+  "countryCode": "AR",
+  "countryName": "아르헨티나",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\ar.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1599094792743-7df3e8870800?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxBcmdlbnRpbmElMjB0cmF2ZWwlMjBsYW5kc2NhcGUlMjBsYW5kbWFya3xlbnwxfDB8fHwxNzgxODkxMzY3fDA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\ar.jpg",
+  "attributionText": "Photo by Hector Ramon Perez on Unsplash",
+  "photographer": "Hector Ramon Perez",
+  "photographerUrl": "https://unsplash.com/@argentinanatural?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/brown-and-gray-mountains-under-white-clouds-and-blue-sky-during-daytime-e7D8evFSyww?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 269,
+    "height": 168
+  }
+}

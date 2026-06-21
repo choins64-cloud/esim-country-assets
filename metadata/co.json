@@ -1,0 +1,21 @@
+{
+  "countryCode": "CO",
+  "countryName": "콜롬비아",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\co.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1532443603613-61fa154742cd?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxDb2xvbWJpYSUyMHRyYXZlbCUyMGxhbmRzY2FwZSUyMGxhbmRtYXJrfGVufDF8MHx8fDE3ODE4OTIwNDN8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\co.jpg",
+  "attributionText": "Photo by Fernanda Fierro on Unsplash",
+  "photographer": "Fernanda Fierro",
+  "photographerUrl": "https://unsplash.com/@0fernanda7?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/smokey-mountain-with-coconut-palm-trees-XV4XUU7gWlk?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 252,
+    "height": 168
+  }
+}

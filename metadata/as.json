@@ -1,0 +1,21 @@
+{
+  "countryCode": "AS",
+  "countryName": "아메리칸 사모아",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\as.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1770904112863-92ab4888d723?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxBbWVyaWNhbiUyMFNhbW9hJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTg5MTM3MHww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\as.jpg",
+  "attributionText": "Photo by Chip Vincent on Unsplash",
+  "photographer": "Chip Vincent",
+  "photographerUrl": "https://unsplash.com/@vcentx?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/american-flag-flies-half-mast-near-washington-monument-SI-xRlwlzQs?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

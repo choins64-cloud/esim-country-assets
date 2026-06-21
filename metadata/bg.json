@@ -1,0 +1,21 @@
+{
+  "countryCode": "BG",
+  "countryName": "불가리아",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\bg.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1593616040388-df0aa9049cd2?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxCdWxnYXJpYSUyMHRyYXZlbCUyMGxhbmRzY2FwZSUyMGxhbmRtYXJrfGVufDF8MHx8fDE3ODE4OTE0MDJ8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\bg.jpg",
+  "attributionText": "Photo by Ivan Nedelchev on Unsplash",
+  "photographer": "Ivan Nedelchev",
+  "photographerUrl": "https://unsplash.com/@inedelchev?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/green-mountains-beside-river-under-blue-sky-during-daytime-66JOmOvYoKE?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 280,
+    "height": 168
+  }
+}

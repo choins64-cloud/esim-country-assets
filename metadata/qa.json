@@ -1,0 +1,21 @@
+{
+  "countryCode": "QA",
+  "countryName": "카타르",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\qa.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1700901742651-6b353164caf3?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxRYXRhciUyMHRyYXZlbCUyMGxhbmRzY2FwZSUyMGxhbmRtYXJrfGVufDF8MHx8fDE3ODE4OTU2NTR8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\qa.jpg",
+  "attributionText": "Photo by Popup Agency on Unsplash",
+  "photographer": "Popup Agency",
+  "photographerUrl": "https://unsplash.com/@popup_agency?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/a-large-sculpture-in-the-middle-of-a-body-of-water-jJtqDVzozQY?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 428,
+    "height": 168
+  }
+}

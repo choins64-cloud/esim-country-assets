@@ -1,0 +1,21 @@
+{
+  "countryCode": "NZ",
+  "countryName": "뉴질랜드",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\nz.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1547314283-befb6cc5cf29?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxOZXclMjBaZWFsYW5kJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTg5NTYwOXww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\nz.jpg",
+  "attributionText": "Photo by Ömer Faruk Bekdemir on Unsplash",
+  "photographer": "Ömer Faruk Bekdemir",
+  "photographerUrl": "https://unsplash.com/@ofbekdemir?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/buildings-near-body-of-water-and-mountains-under-clear-blue-sky-and-white-clouds-at-daytime-5BuxuWIJF1Q?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

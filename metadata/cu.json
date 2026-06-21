@@ -1,0 +1,21 @@
+{
+  "countryCode": "CU",
+  "countryName": "쿠바",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\cu.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1570299437488-d430e1e677c7?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxDdWJhJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTg5MjA0OXww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\cu.jpg",
+  "attributionText": "Photo by Spencer Everett on Unsplash",
+  "photographer": "Spencer Everett",
+  "photographerUrl": "https://unsplash.com/@sp3v?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/two-cars-parked-outside-building-4MTSE39Oqro?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "countryCode": "MY",
+  "countryName": "말레이시아",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\my.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1608982398782-7f91437dd1e7?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxNYWxheXNpYSUyMHRyYXZlbCUyMGxhbmRzY2FwZSUyMGxhbmRtYXJrfGVufDF8MHx8fDE3ODE5NTI1ODN8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\my.jpg",
+  "attributionText": "Photo by Kelvin Zyteng on Unsplash",
+  "photographer": "Kelvin Zyteng",
+  "photographerUrl": "https://unsplash.com/@zyteng?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/grayscale-photo-of-cars-parked-in-front-of-building-bcY669Tz010?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

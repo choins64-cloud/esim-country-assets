@@ -1,0 +1,21 @@
+{
+  "countryCode": "MP",
+  "countryName": "북마리아나제도",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\mp.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1629256300709-284c71110c3b?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxOb3J0aGVybiUyME1hcmlhbmElMjBJc2xhbmRzJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTkzNTU5N3ww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\mp.jpg",
+  "attributionText": "Photo by Lisha Riabinina on Unsplash",
+  "photographer": "Lisha Riabinina",
+  "photographerUrl": "https://unsplash.com/@weekendtripcreator?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/brown-rock-formation-on-sea-during-daytime-fL2kKfkBEQE?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

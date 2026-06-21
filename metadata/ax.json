@@ -1,0 +1,21 @@
+{
+  "countryCode": "AX",
+  "countryName": "올란드 제도",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\ax.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1600942956900-0522090c4182?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHwlQzMlODVsYW5kJTIwSXNsYW5kcyUyMHRyYXZlbCUyMGxhbmRzY2FwZSUyMGxhbmRtYXJrfGVufDF8MHx8fDE3ODE4OTEzODZ8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\ax.jpg",
+  "attributionText": "Photo by Oscar Ekholm Grahn on Unsplash",
+  "photographer": "Oscar Ekholm Grahn",
+  "photographerUrl": "https://unsplash.com/@ekholm?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/green-grass-near-body-of-water-during-daytime-UVboVXvk3Yc?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 257,
+    "height": 168
+  }
+}

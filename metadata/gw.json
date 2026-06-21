@@ -1,0 +1,21 @@
+{
+  "countryCode": "GW",
+  "countryName": "기니비사우",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\gw.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1623930376524-ead3734be423?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxHdWluZWEtQmlzc2F1JTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTkxMzYwMXww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\gw.jpg",
+  "attributionText": "Photo by Kaysha on Unsplash",
+  "photographer": "Kaysha",
+  "photographerUrl": "https://unsplash.com/@kaysha?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/man-riding-motorcycle-on-road-during-daytime-h781CadBmuQ?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

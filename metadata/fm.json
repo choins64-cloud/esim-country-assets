@@ -1,0 +1,21 @@
+{
+  "countryCode": "FM",
+  "countryName": "미크로네시아",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\fm.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1553602889-f85ab725f992?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxNaWNyb25lc2lhJTJDJTIwRmVkZXJhdGVkJTIwU3RhdGVzJTIwb2YlMjB0cmF2ZWwlMjBsYW5kc2NhcGUlMjBsYW5kbWFya3xlbnwxfDB8fHwxNzgxOTEzMDMzfDA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\fm.jpg",
+  "attributionText": "Photo by Marek Okon on Unsplash",
+  "photographer": "Marek Okon",
+  "photographerUrl": "https://unsplash.com/@marekokon?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/coconut-trees-on-shore-at-daytime-LoT6c4bZnmM?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 319,
+    "height": 168
+  }
+}

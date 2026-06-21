@@ -1,0 +1,21 @@
+{
+  "countryCode": "SB",
+  "countryName": "솔로몬 제도",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\sb.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1627887419093-bf2fcd9adce6?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxTb2xvbW9uJTIwSXNsYW5kcyUyMHRyYXZlbCUyMGxhbmRzY2FwZSUyMGxhbmRtYXJrfGVufDF8MHx8fDE3ODE4OTU2NzB8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\sb.jpg",
+  "attributionText": "Photo by Gilly Tanabose on Unsplash",
+  "photographer": "Gilly Tanabose",
+  "photographerUrl": "https://unsplash.com/@glt23?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/green-trees-and-body-of-water-during-daytime-o7oV-rGy53Y?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

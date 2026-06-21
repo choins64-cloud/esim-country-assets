@@ -1,0 +1,21 @@
+{
+  "countryCode": "PG",
+  "countryName": "파푸아뉴기니",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\pg.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1615608178738-37d47d27c13d?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxQYXB1YSUyME5ldyUyMEd1aW5lYSUyMHRyYXZlbCUyMGxhbmRzY2FwZSUyMGxhbmRtYXJrfGVufDF8MHx8fDE3ODE4OTU2MjR8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\pg.jpg",
+  "attributionText": "Photo by Asso Myron on Unsplash",
+  "photographer": "Asso Myron",
+  "photographerUrl": "https://unsplash.com/@assomyron?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/green-trees-on-island-surrounded-by-water-during-daytime-n1LrwXzsnuU?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 224,
+    "height": 168
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "countryCode": "PW",
+  "countryName": "팔라우",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\pw.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1774198350691-77d5bb8c5df1?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxQYWxhdSUyMHRyYXZlbCUyMGxhbmRzY2FwZSUyMGxhbmRtYXJrfGVufDF8MHx8fDE3ODE4OTU2NDh8MA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\pw.jpg",
+  "attributionText": "Photo by Sergej Kaldesić on Unsplash",
+  "photographer": "Sergej Kaldesić",
+  "photographerUrl": "https://unsplash.com/@kaldesic?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/grand-building-with-fountains-and-cars-on-street-tddS1AmnDz0?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 269,
+    "height": 168
+  }
+}

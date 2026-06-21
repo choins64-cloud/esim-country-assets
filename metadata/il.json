@@ -1,0 +1,21 @@
+{
+  "countryCode": "IL",
+  "countryName": "이스라엘",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\il.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1574513828672-99086f5385c8?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxJc3JhZWwlMjB0cmF2ZWwlMjBsYW5kc2NhcGUlMjBsYW5kbWFya3xlbnwxfDB8fHwxNzgxOTEzNjI1fDA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\il.jpg",
+  "attributionText": "Photo by Laura Siegal on Unsplash",
+  "photographer": "Laura Siegal",
+  "photographerUrl": "https://unsplash.com/@laurasiegal?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/a-view-of-a-hillside-with-trees-and-buildings-in-the-distance-_6d1KujNzug?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 231,
+    "height": 168
+  }
+}

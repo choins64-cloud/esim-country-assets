@@ -1,0 +1,21 @@
+{
+  "countryCode": "FO",
+  "countryName": "페로 제도",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\fo.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1539634936668-036d13a9cc3b?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxGYXJvZSUyMElzbGFuZHMlMjB0cmF2ZWwlMjBsYW5kc2NhcGUlMjBsYW5kbWFya3xlbnwxfDB8fHwxNzgxOTEzMDM2fDA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\fo.jpg",
+  "attributionText": "Photo by Sebastian Boring on Unsplash",
+  "photographer": "Sebastian Boring",
+  "photographerUrl": "https://unsplash.com/@sebastianboring?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/landscape-of-mountain-and-body-of-water-Y1N6Gl7K5CQ?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 231,
+    "height": 168
+  }
+}

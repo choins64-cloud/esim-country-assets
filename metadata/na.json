@@ -1,0 +1,21 @@
+{
+  "countryCode": "NA",
+  "countryName": "나미비아",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\na.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1645340862502-1ae6be0b57a4?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxOYW1pYmlhJTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTk1MjU4OXww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\na.jpg",
+  "attributionText": "Photo by Bernd 📷 Dittrich on Unsplash",
+  "photographer": "Bernd 📷 Dittrich",
+  "photographerUrl": "https://unsplash.com/@hdbernd?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/a-tree-in-the-middle-of-a-desert-with-mountains-in-the-background-YaQZdbHAgVk?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 252,
+    "height": 168
+  }
+}

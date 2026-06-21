@@ -1,0 +1,21 @@
+{
+  "countryCode": "HU",
+  "countryName": "헝가리",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\hu.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1577366773073-a57cdf7132cb?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxIdW5nYXJ5JTIwdHJhdmVsJTIwbGFuZHNjYXBlJTIwbGFuZG1hcmt8ZW58MXwwfHx8MTc4MTkxMzYxN3ww&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\hu.jpg",
+  "attributionText": "Photo by Tobias Reich on Unsplash",
+  "photographer": "Tobias Reich",
+  "photographerUrl": "https://unsplash.com/@electerious?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/white-castle-PwK4H7zykHE?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}

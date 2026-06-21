@@ -1,0 +1,21 @@
+{
+  "countryCode": "AE",
+  "countryName": "아랍에미리트",
+  "sourceImage": "C:\\my_esimjs\\esim-image-collector\\pure-images\\ae.jpg",
+  "sourceUrl": "https://images.unsplash.com/photo-1580674684081-7617fbf3d745?ixid=M3w5ODA3MjB8MHwxfHNlYXJjaHwxfHxVbml0ZWQlMjBBcmFiJTIwRW1pcmF0ZXMlMjB0cmF2ZWwlMjBsYW5kc2NhcGUlMjBsYW5kbWFya3xlbnwxfDB8fHwxNzgxODkxMzQwfDA&ixlib=rb-4.1.0&w=1200&h=800&fit=crop&crop=entropy&fm=jpg&q=85",
+  "outputImage": "C:\\my_esimjs\\esim-image-collector\\collectors-uniform-flags\\ae.jpg",
+  "attributionText": "Photo by Wael Hneini on Unsplash",
+  "photographer": "Wael Hneini",
+  "photographerUrl": "https://unsplash.com/@waelhneini?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/white-and-gray-high-rise-buildings-near-body-of-water-during-daytime-QJKEa9n3yN8?utm_source=esim_image_collector&utm_medium=referral",
+  "logo": {
+    "path": "C:\\my_esimjs\\eSIM전심-로고1.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}
