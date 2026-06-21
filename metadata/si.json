@@ -1,0 +1,29 @@
+{
+  "countryCode": "SI",
+  "countryName": "슬로베니아",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-si\\pure-images\\si.jpg",
+  "sourceUrl": "https://unsplash.com/photos/z5xyqSYE8pE?utm_source=esim_image_collector&utm_medium=referral",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-si\\collectors\\si.jpg",
+  "attributionText": "Photo by Johnny Africa on Unsplash",
+  "photographer": "Johnny Africa",
+  "photographerUrl": "https://unsplash.com/@johnnyafrica?utm_source=esim_image_collector&utm_medium=referral",
+  "unsplashUrl": "https://unsplash.com/photos/z5xyqSYE8pE?utm_source=esim_image_collector&utm_medium=referral",
+  "source": "unsplash",
+  "sourceName": "Unsplash",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 336,
+    "height": 168
+  }
+}
