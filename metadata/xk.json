@@ -1,0 +1,29 @@
+{
+  "countryCode": "XK",
+  "countryName": "코소보",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-xk\\pure-images\\xk.jpg",
+  "sourceUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a2/62/0e/front-of-monastery.jpg?w=500&h=500&s=1",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-xk\\collectors\\xk.jpg",
+  "attributionText": "Image source: Tripadvisor",
+  "photographer": null,
+  "photographerUrl": null,
+  "unsplashUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/a2/62/0e/front-of-monastery.jpg?w=500&h=500&s=1",
+  "source": "tripadvisor",
+  "sourceName": "Tripadvisor",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 235,
+    "height": 168
+  }
+}

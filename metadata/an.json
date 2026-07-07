@@ -1,0 +1,29 @@
+{
+  "countryCode": "AN",
+  "countryName": "네덜란드령 안틸레스",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-an\\pure-images\\an.jpg",
+  "sourceUrl": "https://img.freepik.com/free-photo/wide-angle-shot-two-windmills-surrounded-by-trees-vegetation-clear-blue-sky_181624-16035.jpg?semt=ais_incoming&w=740&q=80",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-an\\collectors\\an.jpg",
+  "attributionText": "Image source: Freepik",
+  "photographer": null,
+  "photographerUrl": null,
+  "unsplashUrl": "https://img.freepik.com/free-photo/wide-angle-shot-two-windmills-surrounded-by-trees-vegetation-clear-blue-sky_181624-16035.jpg?semt=ais_incoming&w=740&q=80",
+  "source": "freepik",
+  "sourceName": "Freepik",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 252,
+    "height": 168
+  }
+}
