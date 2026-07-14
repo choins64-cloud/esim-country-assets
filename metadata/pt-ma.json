@@ -1,0 +1,29 @@
+{
+  "countryCode": "PT-MA",
+  "countryName": "마데이라",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-pt-ma\\pure-images\\pt-ma.jpg",
+  "sourceUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/5a/9b/9e/img-20170205-131508-largejpg.jpg",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-pt-ma\\collectors\\pt-ma.jpg",
+  "attributionText": "Image source: Tripadvisor",
+  "photographer": null,
+  "photographerUrl": null,
+  "unsplashUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0e/5a/9b/9e/img-20170205-131508-largejpg.jpg",
+  "source": "tripadvisor",
+  "sourceName": "Tripadvisor",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 252,
+    "height": 168
+  }
+}

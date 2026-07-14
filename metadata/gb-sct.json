@@ -1,0 +1,29 @@
+{
+  "countryCode": "GB-SCT",
+  "countryName": "스코틀랜드",
+  "sourceImage": "C:\\my_esimjs\\.work\\manual-gb-sct\\pure-images\\gb-sct.jpg",
+  "sourceUrl": "https://cdn.newsin.co.kr/news/photo/201910/75061_60921_3013.jpeg",
+  "outputImage": "C:\\my_esimjs\\.work\\manual-gb-sct\\collectors\\gb-sct.jpg",
+  "attributionText": "Image source: cdn.newsin.co.kr",
+  "photographer": null,
+  "photographerUrl": null,
+  "unsplashUrl": "https://cdn.newsin.co.kr/news/photo/201910/75061_60921_3013.jpeg",
+  "source": "external",
+  "sourceName": "cdn.newsin.co.kr",
+  "licenseName": null,
+  "licenseUrl": null,
+  "creditLine": null,
+  "searchQuery": null,
+  "tourismScore": null,
+  "searchResultRank": null,
+  "logo": {
+    "path": "C:\\my_esimjs\\.work\\airalo-esim-api-private\\esim-image-collector\\esim-country-images\\assets\\logo.png",
+    "width": 350,
+    "opacity": 0.8,
+    "cornerRadius": 14
+  },
+  "flag": {
+    "width": 280,
+    "height": 168
+  }
+}
